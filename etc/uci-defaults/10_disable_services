@@ -1,0 +1,3 @@
+/etc/init.d/collectd disable
+
+exit 0
