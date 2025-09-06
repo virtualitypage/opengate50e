@@ -111,6 +111,7 @@ config statistics 'collectd_interface'
 	option enable '1'
 	list Interfaces 'br-lan'
 	list Interfaces 'br-wan'
+	list Interfaces 'tailscale0'
 	option IgnoreSelected '0'
 
 config statistics 'collectd_ipstatistics'
