@@ -67,6 +67,7 @@ luci - 24.297.79519~bcd13b9
 luci-app-firewall - 25.014.06885~bd39c63
 luci-app-package-manager - 24.341.02353~276fef8
 luci-base - 25.014.55016~7046a1c
+luci-i18n-base-ja - 25.245.48024~b8bc15b
 luci-light - 23.024.33244~34dee82
 luci-mod-admin-full - 19.253.48496~3f93650
 luci-mod-network - 25.021.30718~36b6107
@@ -112,4 +113,4 @@ uhttpd - 2023.06.25~34a8a74d-r4
 uhttpd-mod-ubus - 2023.06.25~34a8a74d-r4
 urandom-seed - 3
 urngd - 2023.11.01~44365eb1-r1
-usign - 2020.05.23~f1f65026-r21
+usign - 2020.05.23~f1f65026-r1
