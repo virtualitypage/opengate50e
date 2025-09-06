@@ -1,4 +1,10 @@
 # Put your custom commands here that should be executed once
 # the system init finished. By default this file does nothing.
 
+mount /dev/sda1 /mnt
+/etc/init.d/collectd enable
+/etc/init.d/rpcd start
+/etc/init.d/dnsmasq start
+/etc/init.d/AdGuardHome start
+
 exit 0

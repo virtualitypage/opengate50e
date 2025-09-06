@@ -1,6 +1,6 @@
 
 config system
-	option hostname 'OpenWrt'
+	option hostname 'OpenGate50E'
 	option timezone 'JST-9'
 	option ttylogin '0'
 	option log_size '128'
