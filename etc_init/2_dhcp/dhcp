@@ -20,8 +20,6 @@ config dnsmasq
 	option ednspacket_max '1232'
 	option filter_aaaa '0'
 	option filter_a '0'
-	option noresolv '1'
-	list server '192.168.1.1#5353'
 
 config dhcp 'lan'
 	option interface 'lan'
@@ -44,4 +42,3 @@ config odhcpd 'odhcpd'
 	option leasefile '/tmp/hosts/odhcpd'
 	option leasetrigger '/usr/sbin/odhcpd-update'
 	option loglevel '4'
-
