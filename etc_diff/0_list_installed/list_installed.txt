@@ -32,6 +32,7 @@ kmod-lib-crc-ccitt - 6.6.73-r1
 kmod-lib-crc32c - 6.6.73-r1
 kmod-lib-lzo - 6.6.73-r1
 kmod-nf-conntrack - 6.6.73-r1
+kmod-nf-conntrack-netlink - 6.6.73-r1
 kmod-nf-conntrack6 - 6.6.73-r1
 kmod-nf-flow - 6.6.73-r1
 kmod-nf-log - 6.6.73-r1
@@ -77,11 +78,14 @@ libustream-mbedtls20201210 - 2024.07.28~99bd3d2b-r1
 logd - 2024.04.26~85f10530-r1
 luci - 24.297.79519~bcd13b9
 luci-app-firewall - 25.014.06885~bd39c63
+luci-app-nlbwmon - 25.245.48024~b8bc15b
 luci-app-package-manager - 24.341.02353~276fef8
 luci-app-statistics - 25.245.48024~b8bc15b
 luci-base - 25.014.55016~7046a1c
 luci-i18n-base-ja - 25.245.48024~b8bc15b
+luci-i18n-nlbwmon-ja - 25.245.48024~b8bc15b
 luci-i18n-statistics-ja - 25.245.48024~b8bc15b
+luci-lib-chartjs - 25.245.48024~b8bc15b
 luci-light - 23.024.33244~34dee82
 luci-mod-admin-full - 19.253.48496~3f93650
 luci-mod-network - 25.021.30718~36b6107
@@ -94,6 +98,7 @@ luci-theme-bootstrap - 24.357.59015~779ca14
 mtd - 26
 netifd - 2024.12.17~ea01ed41-r1
 nftables-json - 1.1.1-r1
+nlbwmon - 2024.02.21~c7616bcf-r1
 odhcp6c - 2024.09.25~b6ae9ffa-r1
 odhcpd-ipv6only - 2024.05.08~a2988231-r1
 openwrt-keyring - 2024.11.01~fbae29d7-r2
