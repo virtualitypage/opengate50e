@@ -1,10 +1,11 @@
 
 config system
-	option hostname 'OpenWrt'
-	option timezone 'UTC'
+	option hostname 'OpenGate50E'
+	option timezone 'JST-9'
 	option ttylogin '0'
 	option log_size '128'
 	option urandom_seed '0'
+	option zonename 'Asia/Tokyo'
 
 config timeserver 'ntp'
 	option enabled '1'
