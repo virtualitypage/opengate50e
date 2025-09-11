@@ -160,6 +160,7 @@ uhttpd-mod-ubus - 2023.06.25~34a8a74d-r4
 urandom-seed - 3
 urngd - 2023.11.01~44365eb1-r1
 usign - 2020.05.23~f1f65026-r1
+vsftpd - 3.0.5-r2
 xtables-nft - 1.8.10-r1
 xz - 5.6.2-r2
 xz-utils - 5.6.2-r2
