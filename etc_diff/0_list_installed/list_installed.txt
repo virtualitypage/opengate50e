@@ -11,6 +11,8 @@ collectd-mod-memory - 5.12.0-r54
 collectd-mod-network - 5.12.0-r54
 collectd-mod-rrdtool - 5.12.0-r54
 collectd-mod-thermal - 5.12.0-r54
+coreutils - 9.7-r1
+coreutils-paste - 9.7-r1
 dnsmasq - 2.90-r4
 dropbear - 2024.86-r1
 e2fsprogs - 1.47.0-r2
